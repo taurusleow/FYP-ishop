@@ -1,6 +1,10 @@
 @extends('layout.merchantLayout')
 
 @section('content')
+<!--
+@author Leow Soon Kuan
+-->
+
     <style>
         td{
             text-align: left;

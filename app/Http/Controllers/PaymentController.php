@@ -16,6 +16,8 @@ class PaymentController extends Controller {
 
     /**
      * Display a listing of the resource.
+     * 
+     * @author Leow Soon Kuan
      *
      * @return \Illuminate\Http\Response
      */

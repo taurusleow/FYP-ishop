@@ -30,6 +30,8 @@ class OrderController extends Controller {
 
     /**
      * Display a listing of the resource.
+     * 
+     * @author Leow Soon Kuan <index, charge, success, error, showOrder, returnRequest functions>
      *
      * @return \Illuminate\Http\Response
      */

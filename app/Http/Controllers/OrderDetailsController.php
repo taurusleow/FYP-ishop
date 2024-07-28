@@ -14,6 +14,8 @@ class OrderDetailsController extends Controller
 {
     /**
      * Display a listing of the resource.
+     * 
+     * @author Leow Soon Kuan <index, viewOrder, editAddress, showHistory>
      *
      * @return \Illuminate\Http\Response
      */

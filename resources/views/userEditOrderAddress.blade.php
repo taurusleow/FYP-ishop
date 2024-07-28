@@ -1,5 +1,10 @@
 @extends('layout.homeLayout')
 @section('content')
+
+<!--
+@author Leow Soon Kuan
+-->
+
     <style>
         .profileLinksContainer {
             width: 100%;

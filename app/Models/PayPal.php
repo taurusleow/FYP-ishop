@@ -7,6 +7,12 @@ use Illuminate\Database\Eloquent\Model;
 
 class PayPal extends Model
 {
+    /**
+     * 
+     * @author Leow Soon Kuan
+     *
+     */
+
     use HasFactory;
 
     protected $fillable = [

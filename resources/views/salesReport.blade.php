@@ -1,6 +1,11 @@
 @extends('layout.merchantLayout')
 
 @section('content')
+
+<!--
+@author Leow Soon Kuan
+-->
+
     <style>
         th,td{
             text-align: center;

@@ -13,6 +13,12 @@ use Illuminate\Support\Facades\DB;
 
 class PayMethodController extends Controller
 {
+    /**
+     * 
+     * @author Leow Soon Kuan <showTopUpForm, topUpCharges, topUpSuccess, topUpError>
+     *
+     */
+
     private $gateway;
 
     public function __construct()

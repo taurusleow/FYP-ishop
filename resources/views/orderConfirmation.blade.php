@@ -1,6 +1,11 @@
 @extends('layout.homeLayout')
 
 @section('content')
+
+<!--
+@author Leow Soon Kuan
+-->
+
 <div style="margin-top: 80px; margin-left: 100px;">
     <div>
         <h2>Payment</h2>

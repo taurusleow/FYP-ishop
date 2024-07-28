@@ -7,5 +7,11 @@ use Illuminate\Database\Eloquent\Model;
 
 class Cart extends Model
 {
+    /**
+     * 
+     * @author Leow Soon Kuan
+     *
+     */
+
     use HasFactory;
 }

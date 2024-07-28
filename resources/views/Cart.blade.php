@@ -2,6 +2,10 @@
 
 @section('content')
 
+<!--
+@author Leow Soon Kuan
+-->
+
 <div style="max-width: 1000px; margin: 80px auto auto auto;">
     <div>
         <h2>Cart</h2>

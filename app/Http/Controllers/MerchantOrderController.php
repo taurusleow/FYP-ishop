@@ -13,6 +13,8 @@ class MerchantOrderController extends Controller
     /**
      * Display a listing of the resource.
      *
+     * @author Leow Soon Kuan <index, orderStatus, update, showRefund, viewRequest, updateRequest functions>
+     * 
      * @return \Illuminate\Http\Response
      */
 

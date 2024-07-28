@@ -13,6 +13,8 @@ class ReportController extends Controller
 {
     /**
      * Display a listing of the resource.
+     * 
+     * @author Leow Soon Kuan <delivery, refund, sales functions>
      *
      * @return \Illuminate\Http\Response
      */

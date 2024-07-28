@@ -14,6 +14,8 @@ class CartController extends Controller
 {
     /**
      * Display a listing of the resource.
+     * 
+     * @author Leow Soon Kuan <index, create, edit, destroy functions>
      *
      * @return \Illuminate\Http\Response
      */
